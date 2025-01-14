@@ -1,4 +1,4 @@
-# cheapo_mpmc
+# HKUST MD
 
 Conda environment can be created and built with the following command.
 
